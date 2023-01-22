@@ -1,0 +1,172 @@
+body{
+    background-color: black;
+  }
+  *{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    box-sizing: border-box;
+   
+  }
+  #wrapper{
+    background: #4E4A4F;
+    margin: 0 auto;
+    width: 960px;
+    padding: 10px;
+   }
+   #header{
+    display: block;
+    text-align: center;
+    background: #4E4A4F;
+    margin: 0 0 10px 0;
+    padding: 20px;
+    overflow: hidden;
+    color: orange;
+  
+   }
+  
+  #nav{
+    height: 20px;
+    margin: 0 0 10px 0;
+  }
+  #nav ul{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-align: center;
+  }
+  #nav ul li{
+    display: inline-block;
+  }
+  #nav ul li a{
+    padding: 10px 10px;
+    height: 20px;
+    line-height: 20px;
+    display: block;
+    color:orange;
+  }
+.adobe{
+    color: rgb(213, 114, 1);
+    text-align: center;
+    padding-top: 9%;
+} 
+
+.designer{
+  width: 30px;
+  color: orange;
+}
+.mywork{
+  text-align: center;
+  color: rgb(213, 114, 1);
+}
+
+
+.column1{
+  float: left;
+  width: 18%;
+  padding: 8px;
+}
+
+
+.column3{
+  float: left;
+  width: 20%;
+  padding: 8px;
+}
+.column2{
+  float: left;
+  width: 20%;
+  padding: 10px;
+}
+.column4{
+  float: left;
+  width: 20%;
+  padding: 10px;
+}
+
+.column5{
+  float: left;
+  width: 20%;
+  padding: 8px;
+}
+.column6{
+  margin-left: auto;
+  margin-right: auto; 
+  width: 60%;
+  padding: 3%;
+}
+.column7{
+  margin-left: auto;
+  margin-right: auto; 
+  width: 60%;
+  padding: 3%;
+}
+.column8{
+  margin-left: auto;
+  margin-right: auto; 
+  width: 60%;
+  padding: 3%;
+}
+.column9{
+  margin-left: auto;
+  margin-right: auto; 
+  width: 80%;
+  padding: 3%;
+}
+.column10{
+ margin-left: auto;
+ margin-right: auto;
+ width: 82%;
+ padding: 3%;
+}
+.column11{
+  margin-left: auto;
+  margin-right: auto;
+  width: 60%;
+  padding: 5%;
+}
+.column12{
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  padding: 5%;
+}
+.column13{
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  padding: 5%;
+}
+.klasa{
+  text-align: center;
+color: rgb(213, 114, 1);
+float: left;
+width: 100%;
+padding: 8px;
+}
+.adobexd{
+  text-align: center;
+  color: rgb(213, 114, 1);
+}
+.site{
+  text-align: center;
+}
+.photoshop{
+  text-align: center;
+  color: rgb(213, 114, 1);
+}
+.work{
+  text-align: center;
+}
+.paragraf{
+  text-align: center;
+}
+@media screen and(min-width:1024px) and(max-width:1280px){
+
+}
+@media  screen and(min-width:768px) and (max-width:1023px){
+  
+}
+@media screen and(min-width:300px) and(max-width:763px){
+  
+}
